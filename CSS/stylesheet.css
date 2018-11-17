@@ -14,7 +14,7 @@ body{
     padding: 20px;
     border: 5px rgba(102, 0, 128, 0.938);
     margin-left: 100;
-    border-style: dotted;
+    border-style: dashed;
     border-width: 5px;
     text-align: center;
     
@@ -27,10 +27,4 @@ body{
 .todolist{
     font-size: 10px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-img {
-    display: block;
-    margin-left: 800px;
-    margin-right: 10px;
 }
